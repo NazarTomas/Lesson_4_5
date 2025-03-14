@@ -1,7 +1,7 @@
 import telebot 
 import random
 
-TOKEN = "7139285452:AAHolhbKYBREl7gDTjR9r34v58amU4ysJPs"
+TOKEN = "token"
 bot = telebot.TeleBot(TOKEN)
 
 UPLOAD_FOLDER = r"C:\memes/"
